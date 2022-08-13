@@ -19,4 +19,4 @@ Probando el sabor de esta gran herramienta que soluciona algunos problemas que p
 10. Al terminar no olvides correr `deactivate`
 
 
-**IMPORTANE: Si quieres inicializar un proyecto que uso poetry sigue en el paso 7 debes correr: `poetry install`**
+**IMPORTANE: Si quieres inicializar un proyecto que uso poetry en el paso 7 debes correr: `poetry install`**
